@@ -1,11 +1,17 @@
 * Relevant Info
-So this is like the greatest emacs theme ever made and if you don't think so then umm that's fine I guess you do you sis :)
+So this is like the greatest emacs theme ever made and if you don't
+think so then umm that's fine I guess you do you sis :)
 
-Also, this theme was originally made with [[https://github.com/mswift42/themecreator][this]], then I changed it some.
+Also, this theme was originally made with [[https://github.com/mswift42/themecreator][this]], then I changed it
+some.
 
 * Pics
   [[./scrot.png]]
+  
   Wow! Look at that!
 
 * Trees
-  So trees are pretty cool and they want to be your friends (usually). Weeping cherry trees are a kind of tree, and by virtue of being a kind of tree they are pretty cool and want to be your friends (usually).
+  So trees are pretty cool and they want to be your friends
+  (usually). Weeping cherry trees are a kind of tree, and by virtue of
+  being a kind of tree they are pretty cool and want to be your
+  friends (usually).
